@@ -1,4 +1,4 @@
-# TorrentSearch
+# Torrent Search
 
 
 ### Developer API 
